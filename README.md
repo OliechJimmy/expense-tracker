@@ -48,3 +48,8 @@ a personalised monthly spending plan that guarantees at least 5% savings.
 2. pip install pandas matplotlib streamlit
 3. streamlit run app.py
 4. Upload your transactions CSV and enter your monthly income
+
+## Live App
+[Try it here](https://expense-tracker-cksi4n2cfpkl2vzv2sgqcl.streamlit.app/)
+
+

@@ -27,3 +27,24 @@ compare against budget targets.
 2. Install dependencies: pip install pandas matplotlib
 3. Open expense_analysis.ipynb in Jupyter
 4. Run all cells
+
+ # Smart Expenditure Planner
+
+A data science web app that analyses past expense data and generates 
+a personalised monthly spending plan that guarantees at least 5% savings.
+
+## What it does
+- Analyses your historical spending patterns
+- Calculates a realistic monthly budget per category
+- Automatically adjusts budgets if spending exceeds income
+- Generates plain English savings tips per category
+- Visualises historical vs recommended spending
+
+## Tools Used
+- Python, Pandas, Matplotlib, Streamlit
+
+## How to Run
+1. Clone this repository
+2. pip install pandas matplotlib streamlit
+3. streamlit run app.py
+4. Upload your transactions CSV and enter your monthly income
